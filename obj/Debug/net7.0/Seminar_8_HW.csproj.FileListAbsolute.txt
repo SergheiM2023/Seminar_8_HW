@@ -1,0 +1,15 @@
+/Users/sergheimuratov/Desktop/C#/Seminar_8_HW/bin/Debug/net7.0/Seminar_8_HW
+/Users/sergheimuratov/Desktop/C#/Seminar_8_HW/bin/Debug/net7.0/Seminar_8_HW.deps.json
+/Users/sergheimuratov/Desktop/C#/Seminar_8_HW/bin/Debug/net7.0/Seminar_8_HW.runtimeconfig.json
+/Users/sergheimuratov/Desktop/C#/Seminar_8_HW/bin/Debug/net7.0/Seminar_8_HW.dll
+/Users/sergheimuratov/Desktop/C#/Seminar_8_HW/bin/Debug/net7.0/Seminar_8_HW.pdb
+/Users/sergheimuratov/Desktop/C#/Seminar_8_HW/obj/Debug/net7.0/Seminar_8_HW.csproj.AssemblyReference.cache
+/Users/sergheimuratov/Desktop/C#/Seminar_8_HW/obj/Debug/net7.0/Seminar_8_HW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergheimuratov/Desktop/C#/Seminar_8_HW/obj/Debug/net7.0/Seminar_8_HW.AssemblyInfoInputs.cache
+/Users/sergheimuratov/Desktop/C#/Seminar_8_HW/obj/Debug/net7.0/Seminar_8_HW.AssemblyInfo.cs
+/Users/sergheimuratov/Desktop/C#/Seminar_8_HW/obj/Debug/net7.0/Seminar_8_HW.csproj.CoreCompileInputs.cache
+/Users/sergheimuratov/Desktop/C#/Seminar_8_HW/obj/Debug/net7.0/Seminar_8_HW.dll
+/Users/sergheimuratov/Desktop/C#/Seminar_8_HW/obj/Debug/net7.0/refint/Seminar_8_HW.dll
+/Users/sergheimuratov/Desktop/C#/Seminar_8_HW/obj/Debug/net7.0/Seminar_8_HW.pdb
+/Users/sergheimuratov/Desktop/C#/Seminar_8_HW/obj/Debug/net7.0/Seminar_8_HW.genruntimeconfig.cache
+/Users/sergheimuratov/Desktop/C#/Seminar_8_HW/obj/Debug/net7.0/ref/Seminar_8_HW.dll
